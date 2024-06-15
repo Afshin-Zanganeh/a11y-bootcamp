@@ -1,0 +1,20 @@
+form {
+  padding: 16px;
+}
+
+.form-item {
+  margin: 16px 0;
+  padding: 8px;
+}
+
+.form-submit {
+  background-color: rgb(159, 0, 0);
+  color: #fff;
+  border-radius: 4px;
+  padding: 8px 16px;
+  border: none;
+}
+
+fieldset {
+  padding: 16px;
+}

@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #333;
+  width: 100%;
+  color: #fff;
+  display: flex;
+}
+
+.nav-item {
+  padding: 16px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-item:hover {
+  background-color: #555;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+  }
+
+  .nav-item {
+    width: 100%;
+    text-align: center;
+  }
+}

@@ -1,0 +1,29 @@
+.color-contrast {
+  font-family: Arial, sans-serif;
+  background-color: #ffefd5;
+  color: #696969;
+  padding: 16px 0 96px;
+}
+
+.conrtast-header {
+  background-color: #ffdad5;
+  color: #ffb6c1;
+  padding: 20px;
+  text-align: center;
+}
+
+.contrast-section {
+  background-color: #ffe4e1;
+  color: #ff69b4;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.contrast-footer {
+  background-color: #fafad2;
+  color: #d2691e;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
